@@ -1,4 +1,4 @@
-# Vanilla-01-AnimationCSS
+# Vanilla-Front-AnimationCSS
 
 # Les Animations CSS
 
@@ -8,10 +8,10 @@
 Lien :[ LES ANIMATIONS / TRANSITIONS CSS](https://docs.google.com/presentation/d/10c2OlgcXkjYRo8rS-qC3f6sKsq2EU-Vn5PyLefxpQSA/edit#slide=id.p)
 
 
-## **Pour les TP d'animations, vous ne pouvez utiliser que du CSS !	**
+## **Pour les TP d'animations, vous ne pouvez utiliser que du CSS !**
 
 
-## **⚠️ PAS DE JS ! ⚠️ Pensez à faire un fork des codepens ! **
+## **⚠️ PAS DE JS ! ⚠️ Pensez à faire un fork des codepens !**
 
 
 # 📚️ Ressources
@@ -26,7 +26,7 @@ Lien :[ LES ANIMATIONS / TRANSITIONS CSS](https://docs.google.com/presentation/d
 * [Keyframes](https://developer.mozilla.org/fr/docs/Web/CSS/@keyframes)
 
 
-# 
+
 
 
 # 💪 Exercice d'échauffement
