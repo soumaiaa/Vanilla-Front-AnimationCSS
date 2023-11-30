@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+}
+#image{
+    height: 100px;
+    width: 150px;
+}
+.trois{
+    height: 400px; ;
+    width: 70%;
+    background-color:grey;
+    color:black;
+   
+
+}
+.vis{
+    background-color: aliceblue;
+    height:70%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    margin: 25%;
+    
+}
+.invis{
+    visibility: hidden;
+}
